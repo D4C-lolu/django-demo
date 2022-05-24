@@ -1,0 +1,5 @@
+admin/*/__pycache__
+*/.dbdata
+main/__pycache__
+main/migrations
+venv
